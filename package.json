@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "chart.js": "^4.4.7",
+    "plotly.js": "^2.35.3",
+    "react-chartjs-2": "^5.2.0",
+    "react-plotly.js": "^2.6.0"
+  }
+}
