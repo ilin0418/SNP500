@@ -42,7 +42,7 @@ This project provides tools for analyzing S&P 500 stocks, including a web interf
    ```json
    {
      "host": "your_redis_host",
-     "port": your_redis_port,
+     "port": "your_redis_port",
      "password": "your_redis_password"
    }
    ```
